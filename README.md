@@ -1,2 +1,3 @@
 These are basically just labs from undergrad so I do not lose them. 
-Dont take them seriously, I have no clue how well all of them still run 
+
+They are not optimized to be able to be run on other machines without setting up the environment properly, aside from mine or my lab partners.
